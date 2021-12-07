@@ -1,9 +1,9 @@
 ﻿using System;
-using RCi.Tutorials.Csgo.Cheat.External.Data;
-using RCi.Tutorials.Csgo.Cheat.External.Features;
-using RCi.Tutorials.Csgo.Cheat.External.Gfx;
+using RCi.Tutorials.CombatArms.exe.Cheat.External.Data;
+using RCi.Tutorials.CombatArms.Cheat.External.Features;
+using RCi.Tutorials.CombatArms.Cheat.External.Gfx;
 
-namespace RCi.Tutorials.Csgo.Cheat.External
+namespace RCi.Tutorials.CombatArms.exe.Cheat.External
 {
     /// <summary>
     /// Main program.
